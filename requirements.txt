@@ -1,0 +1,51 @@
+# ──────────────────────────────────────────────────────────
+#  PolicyPal AI — Python Dependencies
+#  Install: pip install -r requirements.txt
+# ──────────────────────────────────────────────────────────
+
+# ── Core ML / LLM ─────────────────────────────────────────
+torch>=2.2.0
+transformers>=4.41.0
+peft>=0.10.0
+bitsandbytes>=0.43.0          # 4-bit quantization (QLoRA)
+accelerate>=0.29.0
+trl>=0.8.6                    # SFTTrainer
+
+# ── Data ──────────────────────────────────────────────────
+datasets>=2.19.0
+PyMuPDF>=1.24.0               # PDF extraction (fitz)
+langchain-text-splitters>=0.2.0
+
+# ── Vector Store ──────────────────────────────────────────
+chromadb>=0.5.0
+sentence-transformers>=3.0.0  # all-MiniLM-L6-v2 embeddings
+
+# ── Evaluation ────────────────────────────────────────────
+rouge-score>=0.1.2
+nltk>=3.8.1
+textstat>=0.7.3               # Flesch readability scores
+bert-score>=0.3.13            # optional BERTScore
+
+# ── Hallucination Check ───────────────────────────────────
+# (uses cross-encoder/nli-deberta-v3-small via transformers)
+
+# ── API / Backend ─────────────────────────────────────────
+anthropic>=0.28.0             # Claude API (baseline + summary gen)
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+pydantic>=2.7.0
+python-dotenv>=1.0.1
+
+# ── Web Scraping (optional — not needed for local PDFs) ───
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+
+# ── Notebooks ─────────────────────────────────────────────
+jupyter>=1.0.0
+ipykernel>=6.29.0
+matplotlib>=3.9.0
+seaborn>=0.13.2
+pandas>=2.2.0
+
+# ── Utilities ─────────────────────────────────────────────
+tqdm>=4.66.0

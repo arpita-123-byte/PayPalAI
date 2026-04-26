@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "policypal-ai"
+version = "1.0.0"
+description = "RAG + QLoRA system that explains Indian government policies in plain language"
+requires-python = ">=3.10"
+readme = "README.md"
+license = { text = "MIT" }
+
+[project.scripts]
+policypal-serve  = "src.app:main"
+policypal-ingest = "src.data_pipeline:main"
+policypal-eval   = "src.evaluate:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
+
+[tool.pytest.ini_options]
+testpaths   = ["tests"]
+python_files = ["test_*.py"]
+addopts     = "-v --tb=short"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+select = ["E", "F", "W", "I"]
+ignore = ["E501"]
