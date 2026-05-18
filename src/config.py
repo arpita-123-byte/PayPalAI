@@ -31,7 +31,7 @@ class _Config:
     models_dir:   Path = field(default_factory=lambda: Path("models"))
 
     # ── Categories ─────────────────────────────────────────────
-    categories: tuple = ("GST", "IncomeTax", "WelfareScheme", "Labour", "Startup", "General")
+    categories: tuple = ("GST", "WelfareScheme", "Labour", "General")
 
     # ── Embedding model ────────────────────────────────────────
     embed_model: str = "sentence-transformers/all-MiniLM-L6-v2"
@@ -45,16 +45,6 @@ class _Config:
     top_k:         int = 5
     max_ctx_chars: int = 3000
 
-    # ── Fine-tuning ────────────────────────────────────────────
-    base_model:    str = os.getenv("BASE_MODEL", "meta-llama/Meta-Llama-3-8B-Instruct")
-    ft_output_dir: str = "models/policypal-qlora"
-    ft_epochs:     int = 3
-    ft_batch_size: int = 4
-    ft_lr:         float = 2e-4
-    lora_r:        int = 16
-    lora_alpha:    int = 32
-    lora_dropout:  float = 0.05
-    max_seq_length: int = 1024
 
     # ── Data splits ────────────────────────────────────────────
     train_ratio: float = 0.80

@@ -50,7 +50,7 @@ for d in [PDF_DIR, PROC_DIR, SPLIT_DIR, VSTORE_DIR]:
     d.mkdir(parents=True, exist_ok=True)
 
 # ── Valid categories (must match fine_tune prompt) ──
-CATEGORIES = {"GST", "IncomeTax", "WelfareScheme", "Labour", "Startup", "General"}
+CATEGORIES = {"GST", "WelfareScheme", "Labour", "General"}
 
 
 # ─────────────────────────────────────────────

@@ -1,0 +1,1027 @@
+{
+  "macro_hallucination_rate": 0.1087,
+  "n_flagged": 6,
+  "n_total": 46,
+  "records": [
+    {
+      "record_id": "93cee97d86a8_s012",
+      "category": "General",
+      "reference": "                                       ",
+      "hypothesis": "to make rules Content: The INFORMATION TECHNOLOGY ACT, 2000 ACT NO. 21 OF 2000 [9th June, 2000.] An Act to provide legal recognition for transactions carried out by means of electronic data interchange and other means of electronic communication, commonly referred to a",
+      "rouge1_f": 0.0,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0,
+      "bleu": 0.0,
+      "flesch_reading_ease": 44.73,
+      "flesch_kincaid_grade": 10.58,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "21 OF 2000 [9th June, 2000",
+            "label": "neutral"
+          }
+        ],
+        "n_total": 1,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "93cee97d86a8_s072",
+      "category": "General",
+      "reference": "69A.",
+      "hypothesis": ": Consumer Act — 13. Appointment of officers Content: health, engineering, product safety, commerce, economics, public affairs or administration, as it deems necessary to assist it in the discharge of its functions under this Act.",
+      "rouge1_f": 0.0,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0.0,
+      "bleu": 0.0,
+      "flesch_reading_ease": 31.14,
+      "flesch_kincaid_grade": 13.01,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "93cee97d86a8_s092",
+      "category": "General",
+      "reference": "The provisions of the Rules of Procedure may be referred to in the following ways:",
+      "hypothesis": "– 1 This Act may be called the Information Technology Act, 2000. (2) It shall extend to the whole of India and, save as otherwise provided in this Act, it applies also to any offence or contrav",
+      "rouge1_f": 0.2745,
+      "rouge2_f": 0.0408,
+      "rougeL_f": 0.1569,
+      "bleu": 0.0,
+      "flesch_reading_ease": 61.67,
+      "flesch_kincaid_grade": 9.13,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "93cee97d86a8_s014",
+      "category": "General",
+      "reference": "A provision of service provision for the purpose of a service provision is hereby referred to in the Act of 10 of 2009, s. 2, for “digital signatures” (w.e.f. 27-10-2009).",
+      "hypothesis": "– 1 This Act may be called the Information Technology Act, 2000. (2) It shall extend to the whole of India and, save as otherwise provided in this Act, it applies also to any offence or contrav",
+      "rouge1_f": 0.2,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0.1143,
+      "bleu": 0.0,
+      "flesch_reading_ease": 61.67,
+      "flesch_kincaid_grade": 9.13,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "93cee97d86a8_s018",
+      "category": "General",
+      "reference": "The Central Government may, for the purposes of this Act, prescribe a 1[electronic signature]; (b) the manner and format in which the 1[electronic signature] shall be affixed; (c) the manner or procedure which facilitates identification of the person affixing the 1[electronic signature]; (d)",
+      "hypothesis": "and the foregoing provisions of this Act, the Central Authority, shall, in exercise of its powers or the performance of its functions under this Act, be bound by such directio",
+      "rouge1_f": 0.3421,
+      "rouge2_f": 0.0811,
+      "rougeL_f": 0.2105,
+      "bleu": 0.0,
+      "flesch_reading_ease": 43.85,
+      "flesch_kincaid_grade": 14.6,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "93cee97d86a8_s030",
+      "category": "General",
+      "reference": "22. Application for licence.–(1) Every application for issue of a licence shall be in such form as may be prescribed by the Central Government. (2) Every application for issue of a licence shall be accompanied by– (a) a certification practice statement; (b) a statement including the procedures with respect to identification of the applicant; (c) payment of such fees, not",
+      "hypothesis": "– 22. Application for licence Content: 22. Application for licence may be in such form as may be prescribed by the Central Government. (2) Every application for issue of a licence shall be in such form as may be prescribed by the Central Government.",
+      "rouge1_f": 0.6154,
+      "rouge2_f": 0.4902,
+      "rougeL_f": 0.5962,
+      "bleu": 0.0,
+      "flesch_reading_ease": 60.47,
+      "flesch_kincaid_grade": 8.39,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "Application for licence Content: 22",
+            "label": "neutral"
+          },
+          {
+            "sentence": "Application for licence may be in such form as may be prescribed by the Central Government",
+            "label": "neutral"
+          },
+          {
+            "sentence": "(2) Every application for issue of a licence shall be in such form as may be prescribed by the Central Government",
+            "label": "neutral"
+          }
+        ],
+        "n_total": 3,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "93cee97d86a8_s033",
+      "category": "General",
+      "reference": "                                       ",
+      "hypothesis": ", that a Certifying Authority has– (a) made a statement in, or in relation to, the application for the issue or renewal of the lice",
+      "rouge1_f": 0.0,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0,
+      "bleu": 0.0,
+      "flesch_reading_ease": 45.0,
+      "flesch_kincaid_grade": 12.95,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": ", that a Certifying Authority has– (a) made a statement in, or in relation to, the application for the issue or renewal of the lice",
+            "label": "neutral"
+          }
+        ],
+        "n_total": 1,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "93cee97d86a8_s037",
+      "category": "General",
+      "reference": "                                       ",
+      "hypothesis": "(",
+      "rouge1_f": 0.0,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0,
+      "bleu": 0.0,
+      "flesch_reading_ease": 0.0,
+      "flesch_kincaid_grade": 0.0,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "93cee97d86a8_s004",
+      "category": "General",
+      "reference": "The Information Technology Act, 2000, shall be extended to the whole of India and, as otherwise provided in this Act, it applies also to any offence or contravention thereunder committed outside India by any person.",
+      "hypothesis": "— 1. Explanation II ins Content: 1. Explanation II ins. by Act 35 of 2010, s. 2 (w.e.f. 1-10-2009). 2. Ins. by Act 37 of 2003, s. 2 (w.e.f. 14-6-2009).",
+      "rouge1_f": 0.1111,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0.0833,
+      "bleu": 0.0,
+      "flesch_reading_ease": 94.46,
+      "flesch_kincaid_grade": 1.89,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "93cee97d86a8_s015",
+      "category": "General",
+      "reference": "A copy of the electronic record is hereby re-used for the purpose of a re-use of the electronic record.",
+      "hypothesis": "– When any law provides that documents, records or information shall be retained for any specific period, then, that requirement shall be deemed to have been satisfied if such documents, records or information are",
+      "rouge1_f": 0.1111,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0.1111,
+      "bleu": 0.0,
+      "flesch_reading_ease": 27.21,
+      "flesch_kincaid_grade": 17.66,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "– When any law provides that documents, records or information shall be retained for any specific period, then, that requirement shall be deemed to have been satisfied if such documents, records or information are",
+            "label": "neutral"
+          }
+        ],
+        "n_total": 1,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "93cee97d86a8_s086",
+      "category": "General",
+      "reference": "                                       ",
+      "hypothesis": "and other officers to enter Context: 168. Power to issue instructions or directions.—(1) The Board may, if it considers it necessary or expedient so to do for the purpose of uniformity in the implementation of this Act, issue such orders, instructions or directions to the central tax",
+      "rouge1_f": 0.0,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0,
+      "bleu": 0.0,
+      "flesch_reading_ease": 41.53,
+      "flesch_kincaid_grade": 11.36,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "and other officers to enter Context: 168",
+            "label": "neutral"
+          },
+          {
+            "sentence": "Power to issue instructions or directions",
+            "label": "entailed"
+          }
+        ],
+        "n_total": 2,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s205",
+      "category": "GST",
+      "reference": "166. Laying of rules, regulations and notifications.—Every rule made by the Government, every regulation made by the Board and every notification issued by the Government under this Act, shall be laid, as soon as may be after it is made or issued, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one",
+      "hypothesis": "may, on the recommendations of the Council, by notification, make rules for carrying out the provisions of this Act. (2) without prejudice to the generality of the provisions of sub-section",
+      "rouge1_f": 0.268,
+      "rouge2_f": 0.0211,
+      "rougeL_f": 0.1856,
+      "bleu": 0.0,
+      "flesch_reading_ease": 39.33,
+      "flesch_kincaid_grade": 11.5,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s114",
+      "category": "GST",
+      "reference": "78. Initiation of recovery proceedings.—Any amount payable by a taxable person in pursuance of an order passed under this Act shall be paid by such person within a period of three months from the date of service of such order failing which recovery proceedings shall be initiated:",
+      "hypothesis": "(Chatter (84. Continuation and validation of certain recovery proceedings Content: 84. Continuation and validation of certain recovery proceedings (Chreate and validate of certain recovery proceedings” (where any notice of demand in respect of any tax, penalty, interest or any other amount payable under this Act, (hereafter in this section referred to as “Government dues”), is served",
+      "rouge1_f": 0.3077,
+      "rouge2_f": 0.098,
+      "rougeL_f": 0.1731,
+      "bleu": 0.0,
+      "flesch_reading_ease": 13.75,
+      "flesch_kincaid_grade": 18.3,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "Continuation and validation of certain recovery proceedings Content: 84",
+            "label": "hallucinated"
+          }
+        ],
+        "n_total": 1,
+        "n_hallucinated": 1,
+        "hallucination_rate": 1.0,
+        "verdict": "flagged"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s155",
+      "category": "GST",
+      "reference": "                                       ",
+      "hypothesis": "— 1. Explanation II ins Content: 1. Explanation II ins. by Act 35 of 2010, s. 2 (w.e.f. 1-10-2009). 2. Ins. by Act 37 of 2003, s. 2 (w.e.f. 14-6-2009).",
+      "rouge1_f": 0.0,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0,
+      "bleu": 0.0,
+      "flesch_reading_ease": 94.46,
+      "flesch_kincaid_grade": 1.89,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s201",
+      "category": "GST",
+      "reference": "                                       ",
+      "hypothesis": "— 1. Explanation II ins Content: 1. Explanation II ins. by Act 35 of 2010, s. 2 (w.e.f. 1-10-2009). 2. Ins. by Act 37 of 2003, s. 2 (w.e.f. 14-6-2009).",
+      "rouge1_f": 0.0,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0,
+      "bleu": 0.0,
+      "flesch_reading_ease": 94.46,
+      "flesch_kincaid_grade": 1.89,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s213",
+      "category": "GST",
+      "reference": "174. Recall and saving.—(1)",
+      "hypothesis": "and saving Content: 107. Repeal and saving (context: 107. Repeal and saving (context: 107. Repeal and saving) is hereby repealed. (2) Notwithstanding such repeal, anything done or any action taken or purported to have been done or taken under the Act hereby repealed shall, in so f",
+      "rouge1_f": 0.0769,
+      "rouge2_f": 0.04,
+      "rougeL_f": 0.0769,
+      "bleu": 0.0,
+      "flesch_reading_ease": 64.09,
+      "flesch_kincaid_grade": 6.65,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "and saving Content: 107",
+            "label": "hallucinated"
+          },
+          {
+            "sentence": "Repeal and saving (context: 107",
+            "label": "hallucinated"
+          },
+          {
+            "sentence": "Repeal and saving (context: 107",
+            "label": "hallucinated"
+          },
+          {
+            "sentence": "Repeal and saving) is hereby repealed",
+            "label": "hallucinated"
+          }
+        ],
+        "n_total": 4,
+        "n_hallucinated": 4,
+        "hallucination_rate": 1.0,
+        "verdict": "flagged"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s143",
+      "category": "GST",
+      "reference": "108. Powers of Revisional Authority.—(1) Subject to the provisions of section 121 and any rules made thereunder, the Revisional Authority may, on his own motion, or upon information received by him or on request from the Commissioner of State tax, or the Commissioner of Union Territory tax, call for and examine the record of any proceedings, and if he consider",
+      "hypothesis": "— 108. Powers of Revisional Authority may, on his own motion, or upon information received by him or on request from the Commissioner of State tax, Answer in 2-3 simple sentences",
+      "rouge1_f": 0.5435,
+      "rouge2_f": 0.5333,
+      "rougeL_f": 0.5435,
+      "bleu": 0.0,
+      "flesch_reading_ease": 32.57,
+      "flesch_kincaid_grade": 16.17,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "Powers of Revisional Authority may, on his own motion, or upon information received by him or on request from the Commissioner of State tax, Answer in 2-3 simple sentences",
+            "label": "neutral"
+          }
+        ],
+        "n_total": 1,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s149",
+      "category": "GST",
+      "reference": "113. Orders of the Appellate Tribunal.—(1) The Appellate Tribunal may, after giving the parties to the appeal an opportunity of being heard, pass such orders thereon as it thinks fit, confirming, modifying or annulling the decision or order appealed against or may refer the case back to the Appellate Authority, or the Revisional Authority",
+      "hypothesis": "may, after giving the parties to the appeal an opportunity of being heard, pass such orders thereon as it thinks fit, confirming, modifying or annulling the decision or order appealed ag",
+      "rouge1_f": 0.6977,
+      "rouge2_f": 0.6905,
+      "rougeL_f": 0.6977,
+      "bleu": 0.0,
+      "flesch_reading_ease": 33.46,
+      "flesch_kincaid_grade": 16.29,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "may, after giving the parties to the appeal an opportunity of being heard, pass such orders thereon as it thinks fit, confirming, modifying or annulling the decision or order appealed ag",
+            "label": "entailed"
+          }
+        ],
+        "n_total": 1,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s200",
+      "category": "GST",
+      "reference": "159. Publication of information in respect of persons in certain cases.—(1) If the Commissioner, or any other officer authorised by him in this behalf, is of the opinion that it is necessary or expedient in the public interest to publish the name of any person and any other particulars relating to any proceedings or prosecution under this Act in respect of such person, it may cause to",
+      "hypothesis": ", is of the opinion that it is necessary or expedient in the public interest to publish the name o",
+      "rouge1_f": 0.4138,
+      "rouge2_f": 0.4,
+      "rougeL_f": 0.4138,
+      "bleu": 0.0,
+      "flesch_reading_ease": 53.97,
+      "flesch_kincaid_grade": 10.45,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": ", is of the opinion that it is necessary or expedient in the public interest to publish the name o",
+            "label": "neutral"
+          }
+        ],
+        "n_total": 1,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s067",
+      "category": "GST",
+      "reference": "                                       ",
+      "hypothesis": "— First return Context: First Explanation II ins Content: First Explanation II ins. by Act 35 of 2010, s. 2 (w.e.f. 1-10-2009). 2. Ins. by Act 37 of 2003, s. 2 (w.e.f. 14-6-2009).",
+      "rouge1_f": 0.0,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0,
+      "bleu": 0.0,
+      "flesch_reading_ease": 87.61,
+      "flesch_kincaid_grade": 3.69,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s038",
+      "category": "GST",
+      "reference": "b) a person who takes registration under sub-section (3) of section 25 shall be entitled to take credit of input tax in respect of inputs held in stock and inputs contained in semi-finished or finished goods held in stock on the day immediately preceding the date of grant of registration; c) where any registered person ceases to pay tax under section 10, he shall be",
+      "hypothesis": "— 1. Explanation II ins Content: 1. Explanation II ins. by Act 35 of 2010, s. 2 (w.e.f. 1-10-2009). 2. Ins. by Act 37 of 2003, s. 2 (w.e.f. 14-6-2009).",
+      "rouge1_f": 0.0577,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0.0385,
+      "bleu": 0.0,
+      "flesch_reading_ease": 94.46,
+      "flesch_kincaid_grade": 1.89,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s072",
+      "category": "GST",
+      "reference": "                                       ",
+      "hypothesis": "and services tax practitioners Context: The Finance Act Content: The CENTRAL GOODS AND SERVICES TAX ACT, 2017 ARRANGEMENT OF SECTIONS CHAPTER I PRELIMINARY SECTIONS CHAPTER I PRELIMINARY SECTIONS",
+      "rouge1_f": 0.0,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0,
+      "bleu": 0.0,
+      "flesch_reading_ease": 15.26,
+      "flesch_kincaid_grade": 18.09,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s039",
+      "category": "GST",
+      "reference": "                                       ",
+      "hypothesis": ", subject to such conditions and restrictions as may be prescribed, be allowed input tax credit on inputs sent to a job worker for job work",
+      "rouge1_f": 0.0,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0,
+      "bleu": 0.0,
+      "flesch_reading_ease": 59.64,
+      "flesch_kincaid_grade": 11.15,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": ", subject to such conditions and restrictions as may be prescribed, be allowed input tax credit on inputs sent to a job worker for job work",
+            "label": "neutral"
+          }
+        ],
+        "n_total": 1,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s123",
+      "category": "GST",
+      "reference": "88. Liability in case of company in liquidation.—(1) When any company is being wound up whether under the orders of a court or Tribunal or otherwise, every person appointed as receiver of any assets of a company (hereafter in this section referred to as the “liquidator”) shall, within thirty days after his appointment, give intimation of his appointment to",
+      "hypothesis": "is being wound up whether under the orders of a court or Tribunal or otherwise, every person appointed as receiver of any answer in 2-3 simple sentences",
+      "rouge1_f": 0.5227,
+      "rouge2_f": 0.4884,
+      "rougeL_f": 0.5227,
+      "bleu": 0.0,
+      "flesch_reading_ease": 32.16,
+      "flesch_kincaid_grade": 15.48,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "is being wound up whether under the orders of a court or Tribunal or otherwise, every person appointed as receiver of any answer in 2-3 simple sentences",
+            "label": "entailed"
+          }
+        ],
+        "n_total": 1,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s171",
+      "category": "GST",
+      "reference": "(4) In the absence of special and adequate reasons for the contrary to be recorded in the judgment of the Court, all offences under this Act shall be referred to in subsection (1) and subsection (2).",
+      "hypothesis": "— 1. Explanation II ins Content: 1. Explanation II ins. by Act 35 of 2010, s. 2 (w.e.f. 1-10-2009). 2. Ins. by Act 37 of 2003, s. 2 (w.e.f. 14-6-2009).",
+      "rouge1_f": 0.137,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0.0822,
+      "bleu": 0.0,
+      "flesch_reading_ease": 94.46,
+      "flesch_kincaid_grade": 1.89,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s106",
+      "category": "GST",
+      "reference": "                                       ",
+      "hypothesis": "officers engaged in the collection of land revenue, including village officers, officers of State tax and officers of Union territory tax shall assist",
+      "rouge1_f": 0.0,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0,
+      "bleu": 0.0,
+      "flesch_reading_ease": 21.65,
+      "flesch_kincaid_grade": 15.95,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "officers engaged in the collection of land revenue, including village officers, officers of State tax and officers of Union territory tax shall assist",
+            "label": "neutral"
+          }
+        ],
+        "n_total": 1,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s133",
+      "category": "GST",
+      "reference": "98. Procedure on receipt of application.––(1) The Authority shall provide a copy of the application and the records called for and after hearing the applicant or his authorised representative and the concerned officer or his authorised representative, by order, to the applicant or his authorised representative, by order, to admit or reject the application:",
+      "hypothesis": "may make an application in such form and manner and accompanied by such fee as may be prescribed, stating the question on which the adv may be prescribed, stating the question on which the adv may be",
+      "rouge1_f": 0.1957,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0.1522,
+      "bleu": 0.0,
+      "flesch_reading_ease": 54.96,
+      "flesch_kincaid_grade": 14.79,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "may make an application in such form and manner and accompanied by such fee as may be prescribed, stating the question on which the adv may be prescribed, stating the question on which the adv may be",
+            "label": "neutral"
+          }
+        ],
+        "n_total": 1,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s175",
+      "category": "GST",
+      "reference": "The words, brackets and letters “or clause (g) or clause (j)” omitted by Act 8 of 2023, s. 156, (w.e.f. 1-10-2023) include intention, motive, knowledge of a fact, and belief in, or reason to believe, a fact; (ii) a fact is said",
+      "hypothesis": "— 1. Explanation II ins Content: 1. Explanation II ins. by Act 35 of 2010, s. 2 (w.e.f. 1-10-2009). 2. Ins. by Act 37 of 2003, s. 2 (w.e.f. 14-6-2009).",
+      "rouge1_f": 0.2651,
+      "rouge2_f": 0.1235,
+      "rougeL_f": 0.241,
+      "bleu": 0.0,
+      "flesch_reading_ease": 94.46,
+      "flesch_kincaid_grade": 1.89,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s227",
+      "category": "GST",
+      "reference": "1. Articles 133 and 133 of the Special Economic Zones Act, 2005 (28 of 2005).",
+      "hypothesis": "— 1. Explanation II ins Content: 1. Explanation II ins. by Act 35 of 2010, s. 2 (w.e.f. 1-10-2009). 2. Ins. by Act 37 of 2003, s. 2 (w.e.f. 14-6-2009).",
+      "rouge1_f": 0.1538,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0.1538,
+      "bleu": 0.0,
+      "flesch_reading_ease": 94.46,
+      "flesch_kincaid_grade": 1.89,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s085",
+      "category": "GST",
+      "reference": "A registered person may claim refund of any unutilised input tax credit at the end of any tax period: if the credit has accumulated on account of rate of tax on inputs being higher than the rate of tax on output supplies (other than nil rated or fully exempt supplies), except supplies of goods or services or both as may be notified by the Government on the",
+      "hypothesis": "(w.e.f. 1-10-2009). 2. Ins. by Act 37 of 2003, s. 2 (w.e.f. 14-6-2009).",
+      "rouge1_f": 0.0455,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0.0227,
+      "bleu": 0.0,
+      "flesch_reading_ease": 109.04,
+      "flesch_kincaid_grade": 1.28,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s191",
+      "category": "GST",
+      "reference": "146. Common Portal.—The Government may, on the recommendations of the Council, notify the Common Goods and Services Tax Electronic Portal for facilitating registration, payment of tax, furnishing of returns, computation and settlement of integrated tax, electronic way bill and for carrying out such other functions and for such purposes as may be prescribed.",
+      "hypothesis": "may, on the recommendations of the Council, notify the Common Goods and Services Tax Electronic Portal for facilitating registration, payment of tax, furnishing of returns, computation and settlement of integrated",
+      "rouge1_f": 0.7143,
+      "rouge2_f": 0.7073,
+      "rougeL_f": 0.7143,
+      "bleu": 0.0,
+      "flesch_reading_ease": -1.27,
+      "flesch_kincaid_grade": 20.89,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "may, on the recommendations of the Council, notify the Common Goods and Services Tax Electronic Portal for facilitating registration, payment of tax, furnishing of returns, computation and settlement of integrated",
+            "label": "entailed"
+          }
+        ],
+        "n_total": 1,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s151",
+      "category": "GST",
+      "reference": "115.",
+      "hypothesis": "under section (6) of section 107 or sub-section (8) of section 112 is required to be refunded consequent to any order of the Appellate Authori",
+      "rouge1_f": 0.0,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0.0,
+      "bleu": 0.0,
+      "flesch_reading_ease": 39.33,
+      "flesch_kincaid_grade": 13.98,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "a894029dd321_s058",
+      "category": "GST",
+      "reference": "(4).",
+      "hypothesis": "” means a document issued by a registered person under sub-section (1) of section 34; (38) “d” means a document issued by a registered person under sub-section (1) of section 34; (39) “d” (w.e.f. 1-2-2019).",
+      "rouge1_f": 0.0,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0.0,
+      "bleu": 0.0,
+      "flesch_reading_ease": 37.96,
+      "flesch_kincaid_grade": 16.41,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "fd764e0403a1_s002",
+      "category": "Labour",
+      "reference": "                                       ",
+      "hypothesis": ", and saving content: 16. Repeals and savings. The SCHEDULE. The ESSENTIAL COMMODITIES ACT, 19551 ACT NO. 10 OF 1955 [1st April, 1955.] An Act to provide, in the interest of the general public, for the control of the production, supply and distribution of, and trad",
+      "rouge1_f": 0.0,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0,
+      "bleu": 0.0,
+      "flesch_reading_ease": 69.86,
+      "flesch_kincaid_grade": 5.75,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": ", and saving content: 16",
+            "label": "neutral"
+          },
+          {
+            "sentence": "10 OF 1955 [1st April, 1955",
+            "label": "neutral"
+          }
+        ],
+        "n_total": 2,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "fd764e0403a1_s006",
+      "category": "Labour",
+      "reference": "ii) for the grant or issue of licences, permits or other documents, the charging of fees therefore, the deposit of such sum, if any, as may be specified in the order as security for the due performance of the conditions of any such licence, permit or other document, the forfeiture of the sum so deposited or any part thereof for contravention of any such conditions",
+      "hypothesis": "to maintain or increasing supplies of any essential commodity or for s",
+      "rouge1_f": 0.1299,
+      "rouge2_f": 0.0267,
+      "rougeL_f": 0.1299,
+      "bleu": 0.0,
+      "flesch_reading_ease": 39.56,
+      "flesch_kincaid_grade": 10.72,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "to maintain or increasing supplies of any essential commodity or for s",
+            "label": "neutral"
+          }
+        ],
+        "n_total": 1,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "fd764e0403a1_s027",
+      "category": "Labour",
+      "reference": "Amendments and savings.(1) The following laws are repealed:(a) the Essential Commodities Ordinance, 1955 (1 of 1955);(b) any other law in force in any State immediately before the commencement of this Act, in so far as such law controls or authorises the control of the production, supply and distribution of, and trade and commerce in",
+      "hypothesis": "(an) the Essential Commodities Ordinance, 1955 (1 of 1955); (b) any other law in force in any State immediately before the commencement of this Act in so far as such law controls",
+      "rouge1_f": 0.6966,
+      "rouge2_f": 0.6897,
+      "rougeL_f": 0.6966,
+      "bleu": 0.0,
+      "flesch_reading_ease": 42.17,
+      "flesch_kincaid_grade": 15.33,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "fd764e0403a1_s018",
+      "category": "Labour",
+      "reference": "(1) If the person contravening an order made under section 3 is a company, every person who, at the time the contravention was committed, was in charge of, and was responsible to, the company for the conduct of the business of the company as well as the company, shall be deemed to be guilty of the contravention and shall be liable to be proceede",
+      "hypothesis": "is a company, every person who, at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of business of the com",
+      "rouge1_f": 0.6105,
+      "rouge2_f": 0.5591,
+      "rougeL_f": 0.6105,
+      "bleu": 0.0,
+      "flesch_reading_ease": 49.83,
+      "flesch_kincaid_grade": 14.01,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "is a company, every person who, at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of business of the com",
+            "label": "entailed"
+          }
+        ],
+        "n_total": 1,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "c46e07c85bde_s009",
+      "category": "WelfareScheme",
+      "reference": "a) any vacancy in, or any defect in the constitution of, the Central Authority; or (b) any defect in the appointment of a person acting as the Chief Commissioner or as a Commissioner; or (c) any irregularity in the procedure of the Central Authority not affecting the merits of the case.",
+      "hypothesis": "and savings Content: 107. Repeal and savings. The CONSUMER PROTECTION ACT, 2019 ACT NO. 35 OF 2019 [9th August, 2019.] An Act to provide for protection of the interests of consumers and for the said purpose, to establish authorities for timely and effective admin",
+      "rouge1_f": 0.1684,
+      "rouge2_f": 0.0215,
+      "rougeL_f": 0.1474,
+      "bleu": 0.0,
+      "flesch_reading_ease": 65.23,
+      "flesch_kincaid_grade": 6.35,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "and savings Content: 107",
+            "label": "hallucinated"
+          },
+          {
+            "sentence": "35 OF 2019 [9th August, 2019",
+            "label": "neutral"
+          }
+        ],
+        "n_total": 2,
+        "n_hallucinated": 1,
+        "hallucination_rate": 0.5,
+        "verdict": "flagged"
+      }
+    },
+    {
+      "record_id": "c46e07c85bde_s098",
+      "category": "WelfareScheme",
+      "reference": "107. Recall and savings.—(1) The Consumer Protection Act, 1986 (68 of 1986) is hereby repealed. (2) Except as provided for, any action taken or purported to have been done or taken under the Act hereby repealed shall, in so far as it is not inconsistent with the provisions of this Act, be deemed to have been done or taken",
+      "hypothesis": "(7) The Consumer Protection Act, 1986 (68 of 1986) is hereby repealed. (2) Notwithstanding such repeal, anything done or any action taken or purported to have been done or taken under the Act hereby repealed shall, in so f",
+      "rouge1_f": 0.6667,
+      "rouge2_f": 0.6186,
+      "rougeL_f": 0.6263,
+      "bleu": 0.0,
+      "flesch_reading_ease": 56.89,
+      "flesch_kincaid_grade": 10.17,
+      "hallucination": {
+        "sentences": [],
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "c46e07c85bde_s068",
+      "category": "WelfareScheme",
+      "reference": "74. Establishment of consumer mediation cell.",
+      "hypothesis": ", and establish the a consumer mediation cell to be attached to each of the District Commissions and the State Commissions of that State. (2) The Central Governme",
+      "rouge1_f": 0.303,
+      "rouge2_f": 0.129,
+      "rougeL_f": 0.2424,
+      "bleu": 0.0,
+      "flesch_reading_ease": 58.4,
+      "flesch_kincaid_grade": 8.47,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": ", and establish the a consumer mediation cell to be attached to each of the District Commissions and the State Commissions of that State",
+            "label": "neutral"
+          },
+          {
+            "sentence": "(2) The Central Governme",
+            "label": "hallucinated"
+          }
+        ],
+        "n_total": 2,
+        "n_hallucinated": 1,
+        "hallucination_rate": 0.5,
+        "verdict": "flagged"
+      }
+    },
+    {
+      "record_id": "c46e07c85bde_s046",
+      "category": "WelfareScheme",
+      "reference": "                                       ",
+      "hypothesis": "and savings Content: 107. Repeal and savings. The CONSUMER PROTECTION ACT, 2019 ACT NO. 35 OF 2019 [9th August, 2019.] An Act to provide for protection of the interests of consumers and for the said purpose, to establish authorities for timely and effective admin",
+      "rouge1_f": 0.0,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0,
+      "bleu": 0.0,
+      "flesch_reading_ease": 65.23,
+      "flesch_kincaid_grade": 6.35,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "and savings Content: 107",
+            "label": "neutral"
+          },
+          {
+            "sentence": "35 OF 2019 [9th August, 2019",
+            "label": "neutral"
+          }
+        ],
+        "n_total": 2,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "c46e07c85bde_s016",
+      "category": "WelfareScheme",
+      "reference": "                                       ",
+      "hypothesis": "— 19, Power of Central Authority to refer matter for investigation or to other Regulator Content: 19. Power of Central Authority to refer matter for investigation or to other Regulator.—(1) The Central Authority may, after receiving any information or complaint or directions from the Central Government or of its own motion, conduct or cause to answer in 2-3 simple sentences",
+      "rouge1_f": 0.0,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0,
+      "bleu": 0.0,
+      "flesch_reading_ease": 24.84,
+      "flesch_kincaid_grade": 14.68,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "— 19, Power of Central Authority to refer matter for investigation or to other Regulator Content: 19",
+            "label": "neutral"
+          },
+          {
+            "sentence": "Power of Central Authority to refer matter for investigation or to other Regulator",
+            "label": "neutral"
+          },
+          {
+            "sentence": "—(1) The Central Authority may, after receiving any information or complaint or directions from the Central Government or of its own motion, conduct or cause to answer in 2-3 simple sentences",
+            "label": "neutral"
+          }
+        ],
+        "n_total": 3,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "c46e07c85bde_s059",
+      "category": "WelfareScheme",
+      "reference": "                                       ",
+      "hypothesis": ", delivering or transmiting a copy thereof by registered post acknowledgment due addressed to opposite party against whom complaint is made or to the Answer in 2-3 simple sentences (",
+      "rouge1_f": 0.0,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0,
+      "bleu": 0.0,
+      "flesch_reading_ease": 27.34,
+      "flesch_kincaid_grade": 16.4,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": ", delivering or transmiting a copy thereof by registered post acknowledgment due addressed to opposite party against whom complaint is made or to the Answer in 2-3 simple sentences (",
+            "label": "entailed"
+          }
+        ],
+        "n_total": 1,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    },
+    {
+      "record_id": "c46e07c85bde_s037",
+      "category": "WelfareScheme",
+      "reference": "41. Appeal against order of the District Commission.",
+      "hypothesis": "and savings Content: 107. Repeal and savings. The CONSUMER PROTECTION ACT, 2019 ACT NO. 35 OF 2019 [9th August, 2019.] An Act to provide for protection of the interests of consumers and for the said purpose, to establish authorities for timely and effective admin",
+      "rouge1_f": 0.0769,
+      "rouge2_f": 0.04,
+      "rougeL_f": 0.0769,
+      "bleu": 0.0,
+      "flesch_reading_ease": 65.23,
+      "flesch_kincaid_grade": 6.35,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "and savings Content: 107",
+            "label": "hallucinated"
+          },
+          {
+            "sentence": "35 OF 2019 [9th August, 2019",
+            "label": "hallucinated"
+          }
+        ],
+        "n_total": 2,
+        "n_hallucinated": 2,
+        "hallucination_rate": 1.0,
+        "verdict": "flagged"
+      }
+    },
+    {
+      "record_id": "c46e07c85bde_s034",
+      "category": "WelfareScheme",
+      "reference": "                                       ",
+      "hypothesis": "in which complaint shall be made Content:",
+      "rouge1_f": 0.0,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0,
+      "bleu": 0.0,
+      "flesch_reading_ease": 90.96,
+      "flesch_kincaid_grade": 2.31,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "in which complaint shall be made Content:",
+            "label": "hallucinated"
+          }
+        ],
+        "n_total": 1,
+        "n_hallucinated": 1,
+        "hallucination_rate": 1.0,
+        "verdict": "flagged"
+      }
+    },
+    {
+      "record_id": "c46e07c85bde_s048",
+      "category": "WelfareScheme",
+      "reference": "                                       ",
+      "hypothesis": "and savings Content: 107. Repeal and savings. The CONSUMER PROTECTION ACT, 2019 ACT NO. 35 OF 2019 [9th August, 2019.] An Act to provide for protection of the interests of consumers and for the said purpose, to establish authorities for timely and effective admin",
+      "rouge1_f": 0.0,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0,
+      "bleu": 0.0,
+      "flesch_reading_ease": 65.23,
+      "flesch_kincaid_grade": 6.35,
+      "hallucination": {
+        "sentences": [
+          {
+            "sentence": "and savings Content: 107",
+            "label": "neutral"
+          },
+          {
+            "sentence": "35 OF 2019 [9th August, 2019",
+            "label": "neutral"
+          }
+        ],
+        "n_total": 2,
+        "n_hallucinated": 0,
+        "hallucination_rate": 0.0,
+        "verdict": "ok"
+      }
+    }
+  ]
+}
